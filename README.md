@@ -1,5 +1,6 @@
-<h2 align="center">Hi 👋, I'm Devin</h2>
-<h4 align="center">A computer science undergrad.</h4>
+<h2 >Hi 👋, I'm Devin</h2>
+
+<!--<h4 align="center">A computer science undergrad.</h4>-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daredevil25&show_icons=true&locale=en" alt="daredevil25" /></p>
 
