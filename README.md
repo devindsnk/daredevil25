@@ -1,6 +1,4 @@
-<h2 >Hi 👋, I'm Devin</h2>
-
-<!--<h4 align="center">A computer science undergrad.</h4>-->
+## Hey There! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25px"> I'm Devin. 
 
 <!--![Visitor Count](https://profile-counter.glitch.me/{daredevil25}/count.svg)-->
 
@@ -46,7 +44,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <!-- facebook -->
-    <a href="https://fb.com/devin.dissanayake.374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devin.dissanayake.374" height="30" width="40" /></a>
+    <a href="https://fb.com/devin.dissanayake.374" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devin.dissanayake.374" height="30" width="40" /></a>
     <!-- linkedin   -->
     <a href="https://linkedin.com/in/devindissanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devindissanayake" height="30" width="40" /></a>
     <!-- behance -->
