@@ -2,9 +2,11 @@
 
 <!--<h4 align="center">A computer science undergrad.</h4>-->
 
+![Visitor Count](https://profile-counter.glitch.me/{daredevil25}/count.svg)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daredevil25&show_icons=true&locale=en" alt="daredevil25" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daredevil25&" alt="daredevil25" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daredevil25&" alt="daredevil25" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
