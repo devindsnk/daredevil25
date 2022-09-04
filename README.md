@@ -66,7 +66,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <!-- Gmail -->
-    <a href="mailto:devindsnk25@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="devin.dissanayake.374" height="30" width="40" /></a>
+    <a href="mailto:devindsnk@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="devin.dissanayake.374" height="30" width="40" /></a>
     <!-- facebook -->
     <a href="https://fb.com/devin.dissanayake.374" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devin.dissanayake.374" height="30" width="40" /></a>
     <!-- linkedin   -->
