@@ -1,7 +1,7 @@
 ## Hey There! I'm Devin. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25px" width="25px">
 
 ### So... If you don't know me yet 🙂
-- 🎓 I'm a 3rd year CS undergrad at University of Colombo School of Computing.
+- 🎓 I'm a 4th year CS undergrad at University of Colombo School of Computing.
 - 🌱 Currently I'm learning ReactJS, NestJS, Flutter and Firebase.
 - 🚀 Apart from coding I enjoy gaming and designing stuff.
 
